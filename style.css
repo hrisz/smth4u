@@ -84,8 +84,12 @@ body::before {
   top: 5px;
 }
 
-.keqing1 {
-  width: 200px;
+.kucing1 {
+  width: 100px;
+}
+
+.spanspace {
+  margin: 5px;
 }
 
 .genshincake {
